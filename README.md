@@ -289,6 +289,6 @@ LIMIT 10;
 
 ## Author
 
-**Chandra Sekhar Chintapalli**
+**Purna Satish Dasari**
 MSc Advanced Computer Science
 Data Engineering Portfolio Project
