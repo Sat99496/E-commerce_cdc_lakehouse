@@ -14,6 +14,27 @@ flowchart LR
     D --> E[Gold KPI Tables]
     E --> F[Data Quality Tests]
 ```
+## Pipeline Screenshots
+
+### Successful Workflow
+All five tasks completed successfully.
+
+![Successful workflow](docs/images/job_test.png)
+
+### Catalog Structure
+Bronze, Silver and Gold tables in Unity Catalog.
+
+![Catalog layers](docs/images/catalog-layers.png)
+
+### Gold Customer KPIs
+Customer aggregates from simulated order data.
+
+![Customer KPIs](docs/images/gold-customer-kpis.png)
+
+### Data Quality Checks
+All six implemented checks passed.
+
+![Data-quality results](docs/images/quality-tests.png)
 
 ## Project Overview
 
