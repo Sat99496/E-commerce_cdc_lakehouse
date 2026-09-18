@@ -1,4 +1,4 @@
-# End-to-End FinTech CDC Lakehouse
+# End-to-End E-commerce CDC Lakehouse
 
 A production-style data engineering portfolio project that processes simulated e-commerce order changes using AWS S3, Databricks, PySpark, Delta Lake, Auto Loader and Unity Catalog.
 
